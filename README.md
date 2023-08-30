@@ -47,6 +47,8 @@ Know more about the project.
 ## Authors
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
+* **Shashvat Ahuja**
+* **Aditi Pandey**
 
 See also the list of [contributors](https://github.com/anujeshify/ATM-Banking-System-using-C/graphs/contributors) who participated in this project.
 
