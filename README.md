@@ -48,7 +48,7 @@ Know more about the project.
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
 
-See also the list of [contributors](https://github.com/anujeshify/Entertainment-Rating-Database-ERDb/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anujeshify/ATM-Banking-System-using-C/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
